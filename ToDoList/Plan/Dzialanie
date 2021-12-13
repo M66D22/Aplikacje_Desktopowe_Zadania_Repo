@@ -1,0 +1,13 @@
+*Po kliknięciu przycisku dodaj pojawi się okno z dwoma polami:
+    -Tytuł zadania
+    -Treść zadania
+    I przyciskiem dodaj
+*Po kliknięciu zrobione zadanie przeniesie sie na liste rzeczy
+zrobionych
+
+*Po kliknięciu zmień otworzy się okno z treścią zadania, którą
+będzie można zmienić
+
+*Po kliknięciu rozwiń otworzy się okno, którego nie będzie można modyfikowa pokazujące treść zadania
+
+*Wszystkie zadania będą pokazywać się na starcie programu bez wciskania jakiegokolwiek przycisku
